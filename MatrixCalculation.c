@@ -82,6 +82,8 @@ main(){
 					for (k=0; k<r2; k++)
 						res[i][j]=res[i][j]+a[i][k]*b[k][j];
 			break;
+		default:
+			printf("syntax Error!!");
 	}
 	printf("The result is:\n");
 	for (i=0; i<r1; i++){
