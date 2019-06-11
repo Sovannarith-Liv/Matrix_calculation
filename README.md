@@ -1,3 +1,3 @@
 # Matrix_calculation
-This project is the simple calculator that create by using html css and javascript.
-The html css and javascript were combine into 1 file.
+This project is the Matrix calculator use to calculate the matrix operation. 
+It created using c programming
